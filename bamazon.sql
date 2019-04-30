@@ -14,42 +14,42 @@ create table products
 );
 insert into products
     (item_id, product_name, department_name, price, stock_quantity)
-values("B1", "Henry Long Ranger", "Hunting & Sports", 1066.00, 100);
+values("1", "Henry Long Ranger", "Hunting & Sports", 1066.00, 100);
 
 insert into products
     (item_id, product_name, department_name, price, stock_quantity)
-values("B2", "Ring of Power", "Jewelery", 100.00, 1);
+values("2", "Ring of Power", "Jewelery", 100.00, 1);
 
 insert into products
     (item_id, product_name, department_name, price, stock_quantity)
-values("B3", "Boston Baked Beans", "Food", 5.00, 1000);
+values("3", "Boston Baked Beans", "Food", 5.00, 1000);
 
 insert into products
     (item_id, product_name, department_name, price, stock_quantity)
-values("B4", "Clam Chowder", "Food", 2.50, 500);
+values("4", "Clam Chowder", "Food", 2.50, 500);
 
 insert into products
     (item_id, product_name, department_name, price, stock_quantity)
-values("B5", "History Book", "Books", 25.00, 25);
+values("5", "History Book", "Books", 25.00, 25);
 
 insert into products
     (item_id, product_name, department_name, price, stock_quantity)
-values("B6", "Shoes", "Apparel", 15.00, 10);
+values("6", "Shoes", "Apparel", 15.00, 10);
 
 insert into products
     (item_id, product_name, department_name, price, stock_quantity)
-values("B7", "Computer", "Technology", 800.00, 35);
+values("7", "Computer", "Technology", 800.00, 35);
 
 insert into products
     (item_id, product_name, department_name, price, stock_quantity)
-values("B8", "Seinfeld Complete Series", "Entertainment", 109.00, 20);
+values("8", "Seinfeld Complete Series", "Entertainment", 109.00, 20);
 
 insert into products
     (item_id, product_name, department_name, price, stock_quantity)
-values("B9", "The Office Complete Series", "Entertainment", 109.00, 20);
+values("9", "The Office Complete Series", "Entertainment", 109.00, 20);
 
 insert into products
     (item_id, product_name, department_name, price, stock_quantity)
-values("B10", "AR-15", "Hunting & Sports", 1000.00, 100);
+values("10", "AR-15", "Hunting & Sports", 1000.00, 100);
 
 
